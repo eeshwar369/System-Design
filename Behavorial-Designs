@@ -1,0 +1,12 @@
+To make it easier to remember, here's a fun phrase you can use:
+"Smart Owls In Cities Make Silent Thoughts Clear, Very Meaningful."
+Smart → Strategy
+Owls → Observer
+In → Iterator
+Cities → Command
+Make → Mediator
+Silent → State
+Thoughts → Template
+Clear → Chain of Responsibility
+Very → Visitor
+Meaningful → Memento
